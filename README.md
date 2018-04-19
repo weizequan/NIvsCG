@@ -1,2 +1,2 @@
-# CGvsNI
-Distinguishing between Natural Images and Computer-Generated Images Using Convolutional Neural Networks
+# NIvsCG
+Distinguishing between Natural and Computer-Generated Images Using Convolutional Neural Networks
