@@ -1,4 +1,5 @@
 In this work, we use the Columbia Photographic Images and PRCG Dataset [1], and the details can be found in Section III.
+
 [1]: T.-T. Ng, S.-F. Chang, J. Hsu, and M. Pepeljugoski, “Columbia photographic images and photorealistic computer graphics dataset,” 
 ADVENT, Columbia University, Tech. Rep. 205-2004-5, 2004.
 
